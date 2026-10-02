@@ -29,4 +29,4 @@ The analysis uses Python and includes:
 
 The complete analysis is available in:
 
-[`spy_tlt_analysis.ipynb`](https://github.com/HenryEA/ds-ml-coursework1/blob/main/spy_tlt_analysis.ipynb)
+[`spy_tlt_analysis.ipynb`](https://github.com/HenryEA/ds-ml-coursework2/blob/main/spy_tlt_analysis.ipynb)
